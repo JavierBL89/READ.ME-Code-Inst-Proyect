@@ -55,9 +55,9 @@ Some of the HTML elements seen on the HTML module:
       - Guide the user to what is worth
 
 
-PD: Right at the end of the very firts lesson of the UX Module which introduces you to UX Desing, after a quick quiz comes up a page out of no where to upload your proyect, but waht project are we supposed to upload?? is says nothing!! it does not makes any sense!!
+PD: Right at the end of the very first lesson of the UX Module which introduces you to UX Design, after a quick quiz comes up a page out of no where to submit your proyect, but what project are we supposed to submit?? is says nothing!! it does not makes any sense!!
 
-Only 2 days ago afeter finishing the UX module, i got an email saying that i have to submit a READ.ME proyect, so i gathered that the page that came out of nowhere(the one i'm using to submit this file) to submit a proyect must be the one for the READ.ME proyect
+Only 2 days ago after finishing the UX module, i got an email saying that i have to submit a READ.ME proyect, so i gathered that the page that came up out of nowhere(the one i'm using to submit this file) to submit a proyect must be the one for the READ.ME proyect
 
 Yep this is a complain about lack of clarifycation on that part of the course program.
 
